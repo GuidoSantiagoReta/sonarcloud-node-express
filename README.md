@@ -34,4 +34,10 @@
 
 
 ## Capturas:
+![sonarcloud-dashboard](https://github.com/GuidoSantiagoReta/sonarcloud-node-express/assets/46303885/b2b5928c-9d78-4004-8aea-8d7685be282d)
+
+![sonarcloud-pipeline](https://github.com/GuidoSantiagoReta/sonarcloud-node-express/assets/46303885/b3ff12df-0a47-48ec-ba0d-490da4937836)
+
+![sonarcloud-yml](https://github.com/GuidoSantiagoReta/sonarcloud-node-express/assets/46303885/54227bb3-916a-43d4-a381-4d5cb13e6712)
+
 
